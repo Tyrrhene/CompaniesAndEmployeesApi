@@ -95,4 +95,3 @@ Be ready to discuss the following aspects:
 =======
 # CompaniesAndEmployeesApi
 An Api that allows for pagination and filtering of companies
->>>>>>> 02168f9d7a052aa9695f25d209f86a607589c46a
