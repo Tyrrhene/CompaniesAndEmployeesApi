@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Coding Challenge: RESTful API 
 
 ## Objective
