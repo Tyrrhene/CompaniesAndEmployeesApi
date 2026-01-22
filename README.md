@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Coding Challenge: RESTful API 
 
@@ -93,3 +94,7 @@ Be ready to discuss the following aspects:
 -   **Authentication**: Securing the API.
 -   **Security**: Defending against malicious actors.
 -   **Monitoring & Alerting**: Ensuring performance and reliability.
+=======
+# CompaniesAndEmployeesApi
+An Api that allows for pagination and filtering of companies
+>>>>>>> 02168f9d7a052aa9695f25d209f86a607589c46a
