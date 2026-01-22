@@ -1,0 +1,10 @@
+{
+  "id": 1004,
+  "first_name": "Extra",
+  "last_name": "Fields",
+  "role": "Designer",
+  "company_id": 41,
+  "salary": 120000,
+  "hobbies": ["golf", "chess"],
+  "manager": { "id": 1, "name": "Boss" }
+}

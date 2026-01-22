@@ -1,0 +1,8 @@
+{
+  "id": 73,
+  "name": "Extra Fields Inc",
+  "active": true,
+  "ceo": "John Doe",
+  "founded": 1892,
+  "weird": { "nested": "object" }
+}

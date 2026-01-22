@@ -1,0 +1,7 @@
+{
+  "id": "72",
+  "name": "String ID Ltd",
+  "active": "true",
+  "telephone": 123456789,
+  "city": ["Not", "A", "String"]
+}
